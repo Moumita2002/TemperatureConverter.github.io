@@ -43,10 +43,9 @@ label{
     }
     #container{
         width:200px;
-        margin-left:-20px;
     }
     body{
-        padding: 50px 30px;
+        padding: 50px 20px;
     }
     .inp{
         padding:5px 0px;
